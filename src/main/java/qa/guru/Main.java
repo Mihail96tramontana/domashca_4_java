@@ -27,8 +27,8 @@ public class Main {
         System.out.println("e * b = " + (e * b));
 
         //операции переполнения
-        //byte qbyte = 127 + 1; //переполнение
-        //System.out.println(qbyte);
+        //byte qbyte = 127 + 1;
+        //System.out.println(qbyte); //переполнение
 
         //short qshort = 34_000_000; //переполнение
 
